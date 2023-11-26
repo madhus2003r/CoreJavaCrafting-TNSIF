@@ -2,10 +2,10 @@ package tnsif.dayfour;
 
 public class Base {
 	 
-	  int varDefault = 10;
-	  public int varPublic = 20;
-	  private int varPrivate = 30;
-	  protected int varProtected = 40;
+	  int varDefault = 30;
+	  public int varPublic = 40;
+	  private int varPrivate = 80;
+	  protected int varProtected = 90;
 	  
 	  //Declaring methods default,public ,private and protected
 	  void methodDefault()
