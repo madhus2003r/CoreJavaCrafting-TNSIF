@@ -7,4 +7,4 @@ This repository contains basic Java programs for Core Java training.
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/CoreJavaCrafting-TNSIF.git
+git clone https://github.com/madhus2003r/CoreJavaCrafting-TNSIF.git
